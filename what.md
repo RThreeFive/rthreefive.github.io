@@ -1,3 +1,0 @@
-Test asdfghjkl
-**Bold**
-*italic*
